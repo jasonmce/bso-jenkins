@@ -1,0 +1,5 @@
+# PhpStorm project file.
+.idea
+
+# My local jenkins home volume directory.
+var_jenkins_home
