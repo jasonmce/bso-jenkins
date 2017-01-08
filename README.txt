@@ -1,4 +1,4 @@
-Simply extends the default Jenkins container to include Nodejs (for grunt and gulp) and Linkchecker.
+Extends the default Jenkins container to include Nodejs (for grunt and gulp) and Linkchecker.
 http://wummel.github.io/linkchecker/
 https://nodejs.org/
 
